@@ -30,8 +30,6 @@ The [`travelling-waves`](travelling-waves) folder contains Python code for the K
 
 Installation, a demo with its expected output, and usage are described in [`travelling-waves/README.md`](travelling-waves/README.md).
 
-The two papers write the phase lag with opposite signs: Eq. (1) is the coupling of `kuramoto.m` with α replaced by −α and b = 0.
-
 ## License
 
 This repository is distributed under the MIT License. See `LICENSE` for details.
